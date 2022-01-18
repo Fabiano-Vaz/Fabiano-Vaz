@@ -58,7 +58,7 @@
     <a href="mailto:fabiano-vaz@live.com" target="_blank">
       <img align="center" src="https://img.shields.io/static/v1?&logo=outlock&label=Mail:&message=Outlock&color=red&style=for-the-badge" height=25 width=160 />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5535997019839&text=Oi%2C%20te%20achei%20no%20GIT!%20%3DD" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=5535997019839&text=Oi%2C%20te%20achei%20no%github!%20%3DD" target="_blank">
       <img align="center" src="https://img.shields.io/static/v1?&logo=whatsapp&label=Contact:&message=Whatsapp&color=%234ea94b&style=for-the-badge" height=25 width=160 />
     </a>
     <a href="https://www.instagram.com/fabiano_vaz_/" target="_blank">
