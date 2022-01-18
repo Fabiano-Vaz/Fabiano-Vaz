@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
+   <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
  </a>
  <a href="https://github.com/fabiano-vaz">
    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
