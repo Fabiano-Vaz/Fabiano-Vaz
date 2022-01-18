@@ -2,14 +2,17 @@
 
 <div align="center">
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
+   <img align="center" width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
+ </a>
+  <a href="https://github.com/fabiano-vaz">
+   <img align="center" width="170px" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e478iu97xn06g2dk1qye9rf1dqcygr0ajzfrad4ho53&rid=giphy.gif&ct=g" alt="Fabiano-Vaz" />
  </a>
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
+   <img align="center" width="385px" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
  </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br><br>
 
   <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761157b58728ea3b9940ad5f8c29e9583a5d00ef51f1&rid=giphy.gif&ct=g">
 </div>
