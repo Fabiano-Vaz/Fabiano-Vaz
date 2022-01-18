@@ -53,7 +53,7 @@
 <div align="center">
   <span>
     <a href="https://www.linkedin.com/in/fabiano-vaz/" target="_blank">
-      <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=View:&message=Linkedin&color=blue&style=for-the-badge" height=25 width=180 />
+      <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=Work:&message=Linkedin&color=blue&style=for-the-badge" height=25 width=180 />
     </a>
     <a href="mailto:fabiano-vaz@live.com" target="_blank">
       <img align="center" src="https://img.shields.io/static/v1?&logo=outlock&label=Mail:&message=Outlock&color=red&style=for-the-badge" height=25 width=160 />
@@ -62,10 +62,10 @@
       <img align="center" src="https://img.shields.io/static/v1?&logo=whatsapp&label=Contact:&message=Whatsapp&color=%234ea94b&style=for-the-badge" height=25 width=160 />
     </a>
     <a href="https://www.instagram.com/fabiano_vaz_/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=View&message=Instagram" height=25 width=160 />
+      <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=View:&message=Instagram" height=25 width=160 />
     </a>
        <a href="https://www.facebook.com/Fabiano.Vaz.ADS" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=View&message=Facebook" height=25 width=160 />
+      <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=View:&message=Facebook" height=25 width=160 />
     </a>
   </span </div>
 
