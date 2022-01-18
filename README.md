@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b7611dd96a52483a70c9c1e683a8dfae5547f5f6d018c&rid=giphy.gif&ct=g">
+  <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761157b58728ea3b9940ad5f8c29e9583a5d00ef51f1&rid=giphy.gif&ct=g">
 </div>
 
 
