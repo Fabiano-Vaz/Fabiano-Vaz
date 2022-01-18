@@ -2,13 +2,13 @@
 
 <div align="center" style="white-space: nowrap;">
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
+   <img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
  </a>
   <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="15%" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e478iu97xn06g2dk1qye9rf1dqcygr0ajzfrad4ho53&rid=giphy.gif&ct=g" alt="Fabiano-Vaz" />
+   <img align="center" width="17%" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e478iu97xn06g2dk1qye9rf1dqcygr0ajzfrad4ho53&rid=giphy.gif&ct=g" alt="Fabiano-Vaz" />
  </a>
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
+   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
  </a>
 </div>
 
