@@ -47,18 +47,21 @@
 ## **Find Me**
 
 <div align="center">
+   <span>  
  <a href="https://www.linkedin.com/in/fabiano-vaz/">
    <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=linkedin&message=fcosta-dev&color=blue&style=for-the-badge" height=25 width=180/>
  </a>
- 
- <span>    </span>
+ </span>
+ <span>    
  <a href="mailto:fabiano-vaz@live.com">
    <img align="center" src="https://img.shields.io/static/v1?&logo=gmail&label=Send&message=Email&color=red&style=for-the-badge" height=25 width=160/>
  </a>
+</span>
+   <span> 
   <a href="https://api.whatsapp.com/send?phone=5535997019839&text=Oi%2C%20te%20achei%20no%20GIT!%20%3DD">
    <img align="center" src="https://img.shields.io/static/v1?&logo=whatsapp&label=Send&message=Whatsapp&color=%234ea94b&style=for-the-badge" height=25 width=160/>
  </a>
 </div>
-
+</span>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiano-Vaz&style=plastic" alt="Fabiano-Vaz" /></p>
