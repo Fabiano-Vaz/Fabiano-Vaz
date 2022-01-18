@@ -52,7 +52,7 @@
 
 <div align="center">
   <span>
-    <a href="https://www.linkedin.com/in/fabiano-vaz/" target="_blank">
+    <a href="https://www.linkedin.com/in/fabiano-vaz-b5009b206/" target="_blank">
       <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=Work:&message=Linkedin&color=blue&style=for-the-badge" height=25 width=180 />
     </a>
     <a href="mailto:fabiano-vaz@live.com" target="_blank">
