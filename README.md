@@ -9,9 +9,9 @@
  </a>
 </div>
 
-<div style="display: inline_block"><br><br><br>
+<div style="display: inline_block"><br>
 
-  <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a-/AOh14Gh_E7RPH83eM9IDc_RqmiWsjWv_WbPiw9_z_Hy9Su4=s317-p-rw-no">
+  <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b7611dd96a52483a70c9c1e683a8dfae5547f5f6d018c&rid=giphy.gif&ct=g">
 </div>
 
 
