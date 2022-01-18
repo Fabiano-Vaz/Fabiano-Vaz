@@ -1,6 +1,6 @@
 ### Olá, eu sou o Fabiano Vaz 👋
 
-<div align="center">
+<div align="center" style="white-space: nowrap;">
  <a href="https://github.com/fabiano-vaz">
    <img align="center" width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
  </a>
