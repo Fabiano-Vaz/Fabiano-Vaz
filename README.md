@@ -17,36 +17,36 @@
   <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761157b58728ea3b9940ad5f8c29e9583a5d00ef51f1&rid=giphy.gif&ct=g">
 </div>
 
-
 ## Languages and Tools I work/study
 
 ### Front End
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ### Back End
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C# (Sharp)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
 ### DB
+
 ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase]( https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23323330.svg?style=for-the-badge&logo=trello&logoColor=blue)
 
 ### Agile Methodologies
-![Scrum](https://img.shields.io/badge/scrum-black.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
+![Scrum](https://img.shields.io/badge/scrum-black.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
 ## **Find Me**
 
@@ -69,6 +69,6 @@
     </a>
   </span </div>
 
- 
 ## **...**
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiano-Vaz&style=plastic" alt="Fabiano-Vaz" /></p>
