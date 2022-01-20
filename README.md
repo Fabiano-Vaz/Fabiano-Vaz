@@ -56,7 +56,7 @@
       <img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=Work:&message=Linkedin&color=blue&style=for-the-badge" height=25 width=180 />
     </a>
     <a href="mailto:fabiano-vaz@live.com" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logo=outlock&label=Mail:&message=Outlock" height=25 width=160 />
+      <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logoColor=white&logo=outlock&label=Mail:&message=Outlock" height=25 width=160 />
     </a>
     <a  target="_blank" href="https://api.whatsapp.com/send?phone=5535997019839&text=Oi%2C%20te%20achei%20no%20github!%20%3DD">
       <img align="center" src="https://img.shields.io/static/v1?&logo=whatsapp&label=Contact:&message=Whatsapp&color=%234ea94b&style=for-the-badge" height=25 width=160 />
