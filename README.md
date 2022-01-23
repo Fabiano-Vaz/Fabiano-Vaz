@@ -1,14 +1,34 @@
-### Olá, eu sou o Fabiano Vaz 👋
+
+## <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Olá, eu sou o Fabiano Vaz 👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
+```js
+import Desenvolvedor from 'Fabiano-Vaz';
+
+class SobreMim extends Desenvolvedor {
+  nome      = 'Fabiano Vaz';
+  area      = 'Web Developer';
+  trabalho  = 'Grupo Confiaça';
+  local     = 'Belo Horizonte-MG';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['PHP','JS', 'PYTHON', 'C#'];
+  arquitetura = ['MVC'];
+}
+```
+## Dashboard
 
 <div align="center" style="white-space: nowrap;">
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
+   <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Fabiano-Vaz&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Fabiano-Vaz" />
  </a>
-  <a href="https://github.com/fabiano-vaz">
+<!--   <a href="https://github.com/fabiano-vaz">
    <img align="center" width="17%" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e478iu97xn06g2dk1qye9rf1dqcygr0ajzfrad4ho53&rid=giphy.gif&ct=g" alt="Fabiano-Vaz" />
- </a>
+ </a> -->
  <a href="https://github.com/fabiano-vaz">
-   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
+   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=fabiano-vaz&theme=slateorange&show_icons=true" alt="Fabiano-Vaz" />
  </a>
 </div>
 
