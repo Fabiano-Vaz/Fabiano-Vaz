@@ -32,6 +32,10 @@ class Skills extends Desenvolvedor {
  </a>
 </div>
 
+<a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=fabiano-vaz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
 <div style="display: inline_block;"><br><br>
 
   <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761157b58728ea3b9940ad5f8c29e9583a5d00ef51f1&rid=giphy.gif&ct=g">
@@ -88,6 +92,9 @@ class Skills extends Desenvolvedor {
     </a>
   </span </div>
 
+   
+
+    
 ## **...**
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiano-Vaz&style=plastic" alt="Fabiano-Vaz" /></p>
