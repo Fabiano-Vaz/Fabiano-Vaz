@@ -32,7 +32,7 @@ class Skills extends Desenvolvedor {
  </a>
 </div>
 
-<a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=fabiano-vaz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Fabiano-Vaz/Fabiano-Vaz.git"><img alt="VazActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=fabiano-vaz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
