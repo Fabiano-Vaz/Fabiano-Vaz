@@ -37,7 +37,7 @@ class Skills extends Desenvolvedor {
 
 <div style="display: inline_block;"><br><br>
 
-  <img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761157b58728ea3b9940ad5f8c29e9583a5d00ef51f1&rid=giphy.gif&ct=g">
+<img align="right" alt="Vaz-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761157b58728ea3b9940ad5f8c29e9583a5d00ef51f1&rid=giphy.gif&ct=g">
 </div>
 
 ## Languages and Tools I work/study
