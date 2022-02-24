@@ -32,7 +32,7 @@ class Skills extends Desenvolvedor {
  </a>
 </div>
 
-[![Fabiano Vaz github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Fabiano-Vaz&theme=react-dark&area=true&hide_border=true)](https://github.com/Fabiano-Vaz)
+<a href="https://github.com/Fabiano-Vaz"><img alt="Fabiano Vaz Graph" src="https://activity-graph.herokuapp.com/graph?username=fabiano-vaz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <div style="display: inline_block;"><br><br>
