@@ -9,7 +9,7 @@ import Desenvolvedor from 'Fabiano-Vaz';
 class SobreMim extends Desenvolvedor {
   nome      = 'Fabiano Vaz';
   area      = 'Desenvolvedor PHP';
-  trabalho  = ' ';
+  trabalho  = '';
   local     = 'Belo Horizonte-MG';
 }
 
